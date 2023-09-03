@@ -22,7 +22,7 @@ client.on("messageCreate", (message) =>{
 })
 
 client.login(
-  "MTEzNjc1NTYxMDc2ODExMzczNA.GBObbK.M5H6HJiqe7WoZXnQWadQEiY16uv3Vh89g77yh8"
+  "MTEzNjc1NTYxMDc2ODExMzczNA.GBObbK.M5H6HJiqe7WoZXnQWEiY16uv3Vh89g77yh8"
 );
 
 client.on('interactionCreate', (interaction) => {
